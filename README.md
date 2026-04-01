@@ -14,3 +14,6 @@ Do "python mt5_connector.py will show required wheels in terminal
 For instalnce, just do "pip install setproctitle" if crashes on "no module named setproctitle"
 Each venv of python verions may have different requirements.
 So just install the misisng wheels one-by-one
+
+# Debug/coding assistants
+DeepSeek, ChatGPT, Perplexity, Gemini, Claude
