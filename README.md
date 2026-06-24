@@ -15,5 +15,12 @@ For instalnce, just do "pip install setproctitle" if crashes on "no module named
 Each venv of python verions may have different requirements.
 So just install the misisng wheels one-by-one
 
+# Compiling
+If you must run as binary:
+Ask any free LLM to help compile (very easily) in to binary in your OS setup.
+Everyone has different configurations.
+Providing binaries for Windows alone can be tedious.
+For Wine compiling, it is straightforward.
+
 # Debug/coding assistants
 DeepSeek, ChatGPT, Perplexity, Gemini, Claude
