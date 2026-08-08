@@ -22,7 +22,7 @@ So just install the misisng wheels one-by-one
 # Compiling
 If you must run as binary:
 
-Ask any free LLM to help compile (very easily) in to binary in your OS setup.
+Ask any free LLM to help compile (very easily) into binary in your OS setup.
 
 Everyone has different configurations.
 
